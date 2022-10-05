@@ -41,7 +41,7 @@
 
 ### Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izemaj&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vickyabiodun&theme=radical)](https://git.io/streak-stats)
 
 <hr>
 
