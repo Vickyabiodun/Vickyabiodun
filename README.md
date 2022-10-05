@@ -1,28 +1,47 @@
-<h3 align="center">
-  Welcome to Abiodun Victoria's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div id="header" align="center" style = "background-color:#000000">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height= "200"/>
+</div>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+<div id="badges"  align="center" style = "background-color:#000000">
+                                        
+  <a href="mailto:abiodunvictoria28@gmail.com" target = "_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abiodun-victoria-0122a6192/" target = "_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=Hello+World+👋🏽+I'm+Victoria+.%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
+
+<h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7468C&width=439&height=52&lines=Full+Stack+Developer;Technical+Writer;I+Enjoy+Coding" alt="Typing SVG" /></a>
+  <samp> A Full-Stack Developer, and Technical Writer proficient in front end development and back end web development. I am comfortable coding with HTML, CSS, and Javascript for the client-side and maintaining databases and infrastructure server-side using Python and Flask framework. Adapt in using MySQL database in supporting my work in both development and production of code.
+  </samp>
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/omobukola_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/channels/883478451850473483/1012025442242408479" alt="My personalt Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
+<hr>
 
-<br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<h2 align="center"> 🔭 Tech Stack </h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/-html5-005571?style=for-the-badge&logo=html5" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3-316192?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-23F7931E?style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-%230db7ed.svg?style=for-the-badge&logo=Javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=React&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/flask-E97627?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   
 </p>
+
+<hr>
+
+
+### Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izemaj&theme=radical)](https://git.io/streak-stats)
+
+<hr>
 
