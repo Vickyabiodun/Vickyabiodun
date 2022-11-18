@@ -46,5 +46,4 @@
 <hr>
 
 ### Hacktoberfest Badges
-
 [![@vickyabiodun's Holopin board](https://holopin.me/vickyabiodun)](https://holopin.io/@vickyabiodun)
